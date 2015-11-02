@@ -23,6 +23,8 @@
     self.window.rootViewController = vc;
     [self.window makeKeyWindow];
     
+    NSLog(@"kan kan ");
+    
     return YES;
 }
 
