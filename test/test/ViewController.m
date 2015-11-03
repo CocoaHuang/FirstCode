@@ -22,6 +22,7 @@
     self.view.backgroundColor = [UIColor  redColor];
     
     NSLog(@"提交一点东西上去");
+     NSLog(@"提交一点东西上去");
 }
 
 - (void)didReceiveMemoryWarning {
