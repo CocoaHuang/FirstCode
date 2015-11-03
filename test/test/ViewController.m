@@ -20,6 +20,9 @@
     
     
     self.view.backgroundColor = [UIColor  redColor];
+    
+    
+    self.title = @"修改文字";
 }
 
 - (void)didReceiveMemoryWarning {
