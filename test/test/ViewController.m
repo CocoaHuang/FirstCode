@@ -23,6 +23,8 @@
     
     
     self.title = @"修改文字";
+    
+    self.title = @"哈哈";
 }
 
 - (void)didReceiveMemoryWarning {
